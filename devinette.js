@@ -11,7 +11,7 @@ console.log("Bienvenue dans ce jeu de devinette !");
 var solution = Math.floor(Math.random() * 100) + 1;
 
 
-var inutilie = "vraiment inutile";
+var inutile = "vraiment inutile"
 
 // Décommentez temporairement cette ligne pour mieux vérifier le programme
 //console.log("(La solution est " + solution + ")");
